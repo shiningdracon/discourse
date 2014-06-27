@@ -335,7 +335,7 @@ zh_CN:
         after_n_weeks:
           one: "上周建立的讨论"
           other: "最近 {{count}} 周建立的讨论"
-      auto_track_topics: "自动追踪我参与的主题"
+      auto_track_topics: "自动追踪我阅读过的主题"
       auto_track_options:
         never: "从不"
         always: "始终"
