@@ -278,7 +278,7 @@ zh_CN:
       email:
         title: "电子邮箱"
         instructions: "推荐使用gmail、hotmail等邮箱，QQ邮箱可能收不到激活邮件。你的电子邮箱不会被公开。"
-        ok: "已发送电子邮件请你确认，可能会被误认为是垃圾邮件。若没有收到邮件，请联系管理员chnfur@gmail.com"
+        ok: "在您点击「创建新帐号」后我们会发送电子邮件让您确认。可能会被误认为是垃圾邮件。若没有收到邮件，请联系管理员chnfur@gmail.com"
         invalid: "请填写正确的电子邮箱地址。"
         authenticated: "你的电子邮箱已经被 {{provider}} 确认有效。"
         frequency: "只有当你最近一段时间没有访问时，我们才会把你未读过的内容发送到你的电子邮箱。"
